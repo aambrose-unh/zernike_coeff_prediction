@@ -1,6 +1,6 @@
 # zernike_coeff_prediction
 Using a neural network to predict zernike coefficients
-
+Draft of associated report located at http://bit.ly/zern_poly_nn
 
 Python Package Information
 •	Python – Version: 3.6.9
